@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "26.2",
+    "username": "Evon bot",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "theboysserver-Vmy1.aternos.me",
     "port": 12638,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
